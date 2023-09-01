@@ -13,6 +13,7 @@ At DarknetPrime, you will find a comprehensive list of darknet services that hav
 ### [Top Darknet Markets](https://darknetprime.com/onions/marketplaces/):
 
 *   [Ares market](http://vcmfsm7mubypuqr3tfjps5j5vn5zoqrjlzldmgvvkip76cepr3kakmad.onion/) - `http://vcmfsm7mubypuqr3tfjps5j5vn5zoqrjlzldmgvvkip76cepr3kakmad.onion/`
+*   [Incognito market](http://incognito2sjotqmbkys7wivkpq7d4a4tkpweoiqefk7mpf7uvyfalad.onion/) - `http://incognito2sjotqmbkys7wivkpq7d4a4tkpweoiqefk7mpf7uvyfalad.onion/`
 *   [Tor2Door market](http://t2dscdthkhqjxxk5cwdei2lwx7q2jd344d6psy732wegrfidn2hls6ad.onion/) - `http://t2dscdthkhqjxxk5cwdei2lwx7q2jd344d6psy732wegrfidn2hls6ad.onion/`
 *   [Dark Matter market](http://darkmat3kdxestusl437urshpsravq7oqb7t3m36u2l62vnmmldzdmid.onion/) - `http://darkmat3kdxestusl437urshpsravq7oqb7t3m36u2l62vnmmldzdmid.onion/`
 *   [Nemesis Market](http://nemesis555nchzn2dogee6mlc7xxgeeshqirmh3yzn4lo5cnd4s5a4yd.onion/) - `http://nemesis555nchzn2dogee6mlc7xxgeeshqirmh3yzn4lo5cnd4s5a4yd.onion/`
