@@ -10,7 +10,7 @@ Dark-web directory and news [DarknetPrime](https://darknetprime.com/)
 At DarknetPrime, you will find a comprehensive list of darknet services that have been carefully verified to be legitimate. We prioritize your safety and urge you to avoid unverified links to prevent falling victim to scams. As the Director of darknet markets, darknet search engines, and various other darknet services, we offer an extensive collection of reviews for your reference, as well as an up-to-date compilation of active links. Stay informed about the latest darknet events and news with our regular updates. Below, we present a curated selection of the most popular darknet markets and services that are currently featured on DarknetPrime:
 
 
-### [Top Darknet Markets](https://darknetprime.com/onions/marketplaces/):
+### [Top Darknet Markets](https://darknetprime.com/lists/darknet-market-list-top-8-most-popular-dark-web-markets):
 
 *   [Ares market](http://vcmfsm7mubypuqr3tfjps5j5vn5zoqrjlzldmgvvkip76cepr3kakmad.onion/) - `http://vcmfsm7mubypuqr3tfjps5j5vn5zoqrjlzldmgvvkip76cepr3kakmad.onion/`
 *   [Incognito market](http://incognito2sjotqmbkys7wivkpq7d4a4tkpweoiqefk7mpf7uvyfalad.onion/) - `http://incognito2sjotqmbkys7wivkpq7d4a4tkpweoiqefk7mpf7uvyfalad.onion/`
