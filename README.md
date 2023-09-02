@@ -1,4 +1,4 @@
-![](/logo.webp)  
+![](/darknet-prime-site-logo.png)  
 Onion / Darknet Links
 =======================================
 
